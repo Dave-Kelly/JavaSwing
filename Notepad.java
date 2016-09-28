@@ -11,8 +11,9 @@ import java.util.Scanner;
 import java.io.*;
 
 /**
- * @author David
- *
+ * @author David Kelly C00193216
+ * Date: 20/04/2016
+ * Java Notepad Application
  */
 public class Notepad extends JFrame implements ActionListener {
 
